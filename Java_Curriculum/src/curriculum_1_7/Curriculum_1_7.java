@@ -1,6 +1,6 @@
 package curriculum_1_7;
 
-public class DateTypeChange {
+public class Curriculum_1_7 {
 
 	public static void main(String[] args) {
 //		問１）

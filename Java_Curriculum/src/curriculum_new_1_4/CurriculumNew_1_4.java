@@ -22,10 +22,10 @@ public class CurriculumNew_1_4 {
 		j = 0;
 		b = 0;
 		c = 0;
-		d = 0;
+		d = 0L;
 		e = 0f;
 		f = 0.0;
-		g = 0;
+		g = '\u0000';
 		h = null;
 		i = false;
 
